@@ -1,2 +1,2 @@
 # BusTravels
-This Program helps riders to add their trips, passengers and get income from them
+This Program helps riders to add their trips, passengers and calculate income from trips
